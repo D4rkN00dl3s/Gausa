@@ -9,6 +9,7 @@ Language:
 The program is written in C# using Windows Forms for the graphical user interface (GUI).
 
 How it Works:
+
 User Input:
 
 The GUI consists of text boxes where the user inputs the coefficients for a system of three linear equations.
